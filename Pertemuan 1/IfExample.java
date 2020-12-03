@@ -12,3 +12,4 @@ public class IfExample {
 			System.out.print("Anda sudah boleh buat KTP");
  	}
 } 
+ 

@@ -7,3 +7,4 @@ public class prak3Lat7 {
 	System.out.println( result );
  }
 }
+

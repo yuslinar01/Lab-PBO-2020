@@ -17,3 +17,4 @@ public class prak3Lat1 {
 	System.out.println("++d = " + (++d) );
  }
 }
+  
